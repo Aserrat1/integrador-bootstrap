@@ -1,0 +1,42 @@
+u {
+    text-decoration: underline dotted;
+}
+
+.honolulu {
+    background-color: #353a40
+}
+
+.btncard {
+    padding: 0px 4px;
+}
+
+.enviar {
+    background-color: #96c83f !important;
+}
+
+footer {
+    background-color: #1f5170;
+}
+
+header {
+    background-color: #353a40 !important;
+    z-index: 1030;
+    width: 100%;
+}
+
+.bsas {
+    background-image:
+    linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+}
+
+.colorverde {
+    background-color: #29a744 !important;
+}
+
+.opacidad {
+    filter: brightness(50%);
+}
