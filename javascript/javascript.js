@@ -8,7 +8,7 @@ function resumen() {
         document.getElementById("totPagar").innerHTML= "Total a pagar: $ "+resultado;
         document.getElementById("diversion").style.display = 'block';
     }
-    else {
+    else if (cant<1){
         document.getElementById("totPagar").innerHTML= "¡Debe ingresar una cantidad valida mayor a 0!"
         document.getElementById("diversion").style.display = 'block';
     }
